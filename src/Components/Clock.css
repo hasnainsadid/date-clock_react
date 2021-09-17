@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda&display=swap");
+
+.clock {
+  border: 1rem solid bisque;
+  border-radius: 50%;
+  height: 13rem;
+  width: 15.5rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -80%);
+  color: burlywood;
+  font-family: "Merienda", cursive;
+  -webkit-box-reflect: below 0.5rem linear-gradient(transparent, #0007);
+}
