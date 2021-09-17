@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/date-clock_react/static/css/main.b27f1163.chunk.css",
+    "main.js": "/date-clock_react/static/js/main.b77b8cef.chunk.js",
+    "main.js.map": "/date-clock_react/static/js/main.b77b8cef.chunk.js.map",
+    "runtime-main.js": "/date-clock_react/static/js/runtime-main.8b996c08.js",
+    "runtime-main.js.map": "/date-clock_react/static/js/runtime-main.8b996c08.js.map",
+    "static/js/2.4603d377.chunk.js": "/date-clock_react/static/js/2.4603d377.chunk.js",
+    "static/js/2.4603d377.chunk.js.map": "/date-clock_react/static/js/2.4603d377.chunk.js.map",
+    "static/js/3.08104564.chunk.js": "/date-clock_react/static/js/3.08104564.chunk.js",
+    "static/js/3.08104564.chunk.js.map": "/date-clock_react/static/js/3.08104564.chunk.js.map",
+    "index.html": "/date-clock_react/index.html",
+    "static/css/main.b27f1163.chunk.css.map": "/date-clock_react/static/css/main.b27f1163.chunk.css.map",
+    "static/js/2.4603d377.chunk.js.LICENSE.txt": "/date-clock_react/static/js/2.4603d377.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b996c08.js",
+    "static/js/2.4603d377.chunk.js",
+    "static/css/main.b27f1163.chunk.css",
+    "static/js/main.b77b8cef.chunk.js"
+  ]
+}
